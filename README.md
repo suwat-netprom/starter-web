@@ -9,6 +9,9 @@ Sample website with plenty of files for demos
 This is the famous and one of the Best Training Course of
 DevOps
 
+## Contribution
+Fork the Repor and raise pull reuuest for review
+
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
 
