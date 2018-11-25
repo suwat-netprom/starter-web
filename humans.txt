@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Anshul Thakur <twitter>
+    Anshul Thakur
+    anshulc55@gmail.com
+    SDETIII. DevOps Engineer
 
 # THANKS
 
