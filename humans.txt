@@ -5,13 +5,14 @@
 
     Anshul Thakur
     anshulc55@gmail.com
-    SDETIII. DevOps Engineer
+    DevOps Engineer
 
 # THANKS
 
-    <name>
+    ฤืห้ีส ธ้ฟาีพ
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programing
