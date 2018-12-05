@@ -4,6 +4,7 @@ This is GIT Project, which we are using as Sample Project
 
 ## Introduction
 A lot of Lectures are already submmited
+And a Lot of lectures are still coming on.
 
 Sample website with plenty of files for demos
 This is the famous and one of the Best Training Course of
