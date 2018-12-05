@@ -5,6 +5,8 @@ Hi, I am modofiing the file before rebase.
 
 Doing some change in local.
 
+Hi, Going to insert conflicts in my feature branch.
+
 # TEAM
 
     Anshul Thakur
